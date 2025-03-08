@@ -4,7 +4,10 @@ import "./Leftbar.css"
 function Leftbar() {
     return (
         <div className="leftbar">
-            <div className="logo">P</div>
+            <a href="/">
+            <img src="/general/logo.png" alt="" />
+            
+            </a>
             <House />
             <Plus />
             <Bell />
