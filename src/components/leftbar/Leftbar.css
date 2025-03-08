@@ -1,0 +1,10 @@
+.leftbar{
+    height: 100vh;
+    background-color: red;
+    max-width: 3rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    align-items: center;
+}
